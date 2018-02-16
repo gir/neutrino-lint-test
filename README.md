@@ -178,3 +178,15 @@ $ /Users/gir/workspace/src/github.com/gir/neutrino-lint-test/node_modules/.bin/e
   eslint:text-fixer shouldFix parameter was false, not attempting fixes +0ms
   eslint:cli-engine Linting complete in: 2376ms +41ms
 ```
+
+#### Versions
+
+```
+neutrino v8.1.1
+node v9.5.0
+yarn v1.3.2
+
+@neutrinojs/airbnb v8.1.1
+@neutrinojs/jest v8.1.1
+@neutrinojs/react v8.1.1
+```
